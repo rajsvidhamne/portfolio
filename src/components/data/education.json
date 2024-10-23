@@ -1,0 +1,19 @@
+[
+   {
+     "id": 1,
+     "degree": "Master of Computer Application",
+     "collegeName": "Zeal Institute",
+     "location": "Pune, Maharashtra",
+     "passingYear": "2020-2022",
+     "imageSrc": "education/zeal.jpg"
+   },
+   {
+     "id": 2,
+     "degree": "Bachelor of Computer Science",
+     "collegeName": "M.S.G. College",
+     "location": "Malegaon, Maharashtra",
+     "passingYear": "2017-2020",
+     "imageSrc": "education/msg.jpg"
+   }
+ ]
+ 

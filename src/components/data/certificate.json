@@ -1,0 +1,17 @@
+[
+   {
+     "id": 1,
+     "course": "Web Development",
+     "name": "Infinite Graphix Technology",
+     "location": "Pune, Maharashtra",
+     "duration": "6 months"
+   },
+   {
+      "id": 2,
+      "course": " Java FullStack",
+      "name": "Vinsys IT Solution",
+      "location": "Pune, Maharashtra",
+      "duration": "6 months"
+    }
+ ]
+ 

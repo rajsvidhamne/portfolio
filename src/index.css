@@ -101,6 +101,32 @@ a {
   }
 }
 
+
+/* Education Section */
+
+.ed {
+  width: 900px;
+}
+
+.ed-items {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--bg-color);
+  margin: 20px;
+  padding: 30px;
+  width: 800px;
+  border-radius: 10px;
+  border: 1px solid yellow;
+  box-shadow: var(--box-shadow);
+}
+.ed-items .left img {
+  max-width: 150px; /* Adjust this value as needed */
+  height: auto;     /* Maintain aspect ratio */
+  border-radius: 8px; /* Optional: Add rounded corners */
+}
+
+
 /* Experience Section */
 
 .ex {
@@ -149,6 +175,22 @@ a {
 
 .skills .items .item img {
   width: 70px;
+}
+
+/* certificates */
+
+.cd-items {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--bg-color);
+  margin: 20px auto;
+  padding: 30px;
+  width: 800px;
+  border-radius: 10px;
+  border: 1px solid yellow;
+  box-shadow: var(--box-shadow);
 }
 
 /* Contact */
